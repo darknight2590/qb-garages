@@ -1,4 +1,4 @@
----local currentHouseGarage = nil
+local currentHouseGarage = nil
 local hasGarageKey = nil
 local currentGarage = nil
 local OutsideVehicles = {}
